@@ -11,8 +11,8 @@ Eu sou o Caio! Atualmente Programador Junior na SmarAPD em Ribeirão Preto.
 - Git;
 
 📚Estudos:
-- HTML
-- CSS
+- HTML;
+- CSS;
 - Javascript;
 - NodeJs;
 - API RestFull;
@@ -21,9 +21,9 @@ Eu sou o Caio! Atualmente Programador Junior na SmarAPD em Ribeirão Preto.
 - SOLID/DDD;
 
 🎓Formações Acadêmicas:
-- Desenvolvedor Full Stack, IGTI;
-- Ciência da Computação, UNIP;
-- SQL I e II, Connecta Treinamentos;
+- Desenvolvedor Full Stack, IGTI - 2020;
+- Ciência da Computação, UNIP - 2019;
+- SQL I e II, Connecta Treinamentos - 2017;
 
 💻 Principais projetos:
 - https://github.com/caiovmessias/my-bank-api
