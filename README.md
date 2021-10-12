@@ -3,12 +3,19 @@
 <!--
 **caiovmessias/caiovmessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Eu sou o Caio! Atualmente Programador Junior na SmarAPD em Ribeirão Preto. 
+Eu sou o Caio! Atualmente Desenvolvedor de Software Back-End na Gerencianet.
 
 🛠️Trabalho:
+- NodeJs;
+- Docker;
+- CI/CD;
+- Shell Scripts;
+- Git;
+- MySql;
+
+💼Outras Experiências:
 - C++ Builder;
 - SQL Server;
-- Git;
 
 📚Estudos:
 - HTML;
