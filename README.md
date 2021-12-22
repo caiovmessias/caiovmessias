@@ -33,7 +33,7 @@ Eu sou o Caio! Atualmente Desenvolvedor de Software Back-End na Gerencianet.
 - SQL I e II, Connecta Treinamentos - 2017;
 
 💻 Principais projetos:
-- https://github.com/caiovmessias/my-bank-api
+- https://github.com/caiovmessias/node_api
 - https://github.com/caiovmessias/test-backend-nodejs
 - https://github.com/caiovmessias/Conversor_Moedas_TDD
 - https://github.com/caiovmessias/calculo_salario
