@@ -28,9 +28,8 @@ Eu sou o Caio! Atualmente Engenheiro de Software Back-End na Efi.
 - Ciência da Computação, UNIP - 2019;
 - SQL I e II, Connecta Treinamentos - 2017;
 
-💻 Principais projetos:
+💻 Alguns projetos:
 - https://github.com/caiovmessias/node_api
-- https://github.com/caiovmessias/test-backend-nodejs
 - https://github.com/caiovmessias/Conversor_Moedas_TDD
 - https://github.com/caiovmessias/calculo_salario
 - https://github.com/caiovmessias/calculadora-juros-compostos
