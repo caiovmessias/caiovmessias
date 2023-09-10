@@ -3,30 +3,26 @@
 <!--
 **caiovmessias/caiovmessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Eu sou o Caio! Atualmente Desenvolvedor de Software Back-End na Gerencianet.
+Eu sou o Caio! Atualmente Engenheiro de Software Back-End na Efi.
 
 🛠️Trabalho:
-- NodeJs;
-- Docker;
-- CI/CD;
-- Shell Scripts;
-- Git;
-- MySql;
+- Desenvolvimento em Typescript
+- Testes Automatizados
+- Clean Architecture e Princípios SOLID
+- MySQL com Sequelize
+- Metodologias ágeis
 
-💼Outras Experiências:
-- C++ Builder;
-- SQL Server;
-
-📚Estudos:
-- HTML;
-- CSS;
-- Javascript;
-- NodeJs;
-- API RestFull;
-- ReactJs;
-- TDD;
-- SOLID/DDD;
-
+💼 Competências profissionais:
+- Node JS (ts e js)
+- CI/CD
+- Experiência com banco de dados relacionais (SQL Server, MySQL, Postgres)
+- Noções de bancos de dados não relacionais (MongoDB)
+- Expertise com testes automatizados (Jest)
+- Noções básicas dos conceitos SOLID e Clean Architecture
+- Metodologias ágeis
+- Docker
+- GIT
+  
 🎓Formações Acadêmicas:
 - Desenvolvedor Full Stack, IGTI - 2020;
 - Ciência da Computação, UNIP - 2019;
